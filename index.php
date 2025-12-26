@@ -142,7 +142,7 @@ $jsonJob   = json_encode($chartJob);
     <div class="row">
         <div class="col-md-4 mb-3">
             <div class="card h-100">
-                <div class="card-header">Total Availability (Periode Ini)</div>
+                <div class="card-header">Total Availability</div>
                 <div class="card-body d-flex justify-content-center align-items-center">
                     <div id="gaugeChart"></div>
                 </div>
