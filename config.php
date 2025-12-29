@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db = "iot";
+$db = "utilization";
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
